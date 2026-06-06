@@ -164,6 +164,6 @@ export const socials = [
   { name: "GitHub", href: "https://github.com/MohamedxFawzei" },
   {
     name: "CV",
-    href: "https://drive.google.com/file/d/18eZI-y0WaREOYVGwBOuGfaiz0QTqUgoO/view?usp=sharing",
+    href: "https://drive.google.com/file/d/1hw6E0jkHLOGlIgpJDdNAKB7_TZXO_urs/view?usp=sharing",
   },
 ];
