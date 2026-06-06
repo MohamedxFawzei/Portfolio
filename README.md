@@ -4,7 +4,6 @@ A high-performance, visually stunning personal portfolio built with React.js, Vi
 
 <img width="1891" height="914" alt="image" src="https://github.com/user-attachments/assets/3dbbeb50-66b2-4154-9581-f1844e403363" />
 <img width="1899" height="912" alt="image" src="https://github.com/user-attachments/assets/ffbf4eda-5d7b-443f-83a0-b9d7865cd5da" />
-<img width="1905" height="915" alt="image" src="https://github.com/user-attachments/assets/6825e4e6-36aa-4ef1-a853-b82b893fe6dc" />
 
 
 **🛠️ Tech Stack**
