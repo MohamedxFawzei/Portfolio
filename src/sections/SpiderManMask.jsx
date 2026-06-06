@@ -190,7 +190,7 @@ const SpiderManMask = () => {
       >
         <img
           src="/images/hero.png"
-          alt="Mohamed Fawzi"
+          alt="Mohamed Fawzei"
           className="absolute inset-0 w-full h-full object-cover z-10 transition-transform duration-300 ease-out !cursor-pointer"
           style={{
             objectPosition: "top center",

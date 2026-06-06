@@ -46,7 +46,7 @@ Modern Navigation: Custom-built overlay Navbar with scroll-triggered visibility.
     Clone the repository:
 
     Bash
-    git clone https://github.com/MohamedxFawzi/Portfolio.git
+    git clone https://github.com/MohamedxFawzei/Portfolio.git
     Install dependencies:
 
     Bash
@@ -64,8 +64,8 @@ Modern Navigation: Custom-built overlay Navbar with scroll-triggered visibility.
 
 Email: mohamedfawzeix@gmail.com
 
-LinkedIn: Mohamed Fawzi
+LinkedIn: Mohamed Fawzei
 
-GitHub: @MohamedxFawzi
+GitHub: @MohamedxFawzei
 
 ⭐️ If you find this project helpful, don't forget to give it a star!

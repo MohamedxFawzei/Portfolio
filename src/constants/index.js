@@ -2,7 +2,7 @@ export const servicesData = [
   {
     title: "Modern Web Architecture",
     description:
-      "Building scalable, production-ready web applications using React.js, Next.js, and TypeScript. I specialize in bilingual (RTL/LTR) platforms optimized for maximum performance and 95+ Lighthouse scores.",
+      "Engineering scalable, production-ready applications using React.js and Next.js. I focus on building robust, type-safe environments with fully integrated RTL/LTR layouts.",
     items: [
       {
         title: "Next.js App Router & Server Actions",
@@ -16,50 +16,50 @@ export const servicesData = [
     ],
   },
   {
-    title: "Performance Optimization",
+    title: "Custom E-Commerce Solutions",
     description:
-      "Optimizing web applications to achieve 95+ Lighthouse scores. Implementing advanced techniques like lazy loading, asset optimization, and efficient rendering strategies for lightning-fast load times.",
+      "Delivering complete shopping platforms and customizing live store themes. I handle everything from complex product filtering to seamless checkout flows and UI/UX performance enhancements.",
     items: [
       {
-        title: "High Lighthouse Performance Scores",
+        title: "Shopify Theme Customization (Liquid)",
       },
       {
-        title: "Image & Asset Optimization",
+        title: "Headless E-commerce with Next.js",
       },
       {
-        title: "Code Splitting & Caching",
+        title: "Seamless Checkout & Cart Management",
       },
     ],
   },
   {
-    title: "Interactive UI & Animations",
+    title: "High-Performance UI & Animations",
     description:
-      "Crafting immersive user experiences using GSAP and modern CSS. Creating smooth transitions and high-performance animations that engage users without compromising site speed.",
+      "Building dynamic interfaces using GSAP and Tailwind CSS. I prioritize strict asset optimization and lazy loading to maintain 95+ Lighthouse scores alongside complex UI transitions.",
     items: [
       {
-        title: "GSAP (GreenSock) Animations",
+        title: "GSAP & Complex UI Transitions",
       },
       {
-        title: "Advanced Tailwind CSS Styling",
+        title: "Asset Optimization & Lazy Loading",
       },
       {
-        title: "Framer Motion & Scroll Effects",
+        title: "Responsive Layouts & Tailwind CSS",
       },
     ],
   },
   {
-    title: "State Management & APIs",
+    title: "Data Management & APIs",
     description:
-      "Expertly connecting front-end interfaces with RESTful APIs. Managing complex application states and implementing optimistic UI updates for a seamless, real-time user experience.",
+      "Integrating frontend interfaces with 3rd-party RESTful APIs. Managing complex application state and implementing optimistic updates to ensure immediate UI feedbac",
     items: [
       {
-        title: "React Query for Data Fetching",
+        title: "React Query Data Fetching",
       },
       {
-        title: "Redux Toolkit State Management",
+        title: "Optimistic UI Updates",
       },
       {
-        title: "Optimistic UI & Real-time Updates",
+        title: "Secure Authentication Flows",
       },
     ],
   },
@@ -158,10 +158,10 @@ export const projects = [
   },
 ];
 export const socials = [
-  { name: "Instagram", href: "https://www.instagram.com/mohamedfawzix/" },
-  { name: "LinkedIn", href: "https://www.linkedin.com/in/mohamed--fawzi" },
+  { name: "Instagram", href: "https://www.instagram.com/mohamedxfawzei/" },
+  { name: "LinkedIn", href: "https://www.linkedin.com/in/mohamed--fawzei" },
 
-  { name: "GitHub", href: "https://github.com/MohamedxFawzi" },
+  { name: "GitHub", href: "https://github.com/MohamedxFawzei" },
   {
     name: "CV",
     href: "https://drive.google.com/file/d/18eZI-y0WaREOYVGwBOuGfaiz0QTqUgoO/view?usp=sharing",
