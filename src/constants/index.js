@@ -143,7 +143,7 @@ export const projects = [
   },
  {
     id: 6,
-    name: "Gaming Hub (High Performance Landing Page)",
+    name: "Gaming Hub",
     description:
       "A modern, high-performance landing page dedicated to the gaming community. This project achieved outstanding Google Lighthouse scores (98% Performance, 100% Best Practices) by optimizing asset delivery, minimizing unused JavaScript, and adhering to modern web performance standards.",
     href: "https://gaming-website-plum-kappa.vercel.app/",
